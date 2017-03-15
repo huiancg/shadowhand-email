@@ -1,0 +1,8 @@
+{
+    "name": "huia/email",
+    "type": "kohana-module",
+    "require": {
+        "php": ">=5.2.4",
+        "swiftmailer/swiftmailer": "4.3.*"
+    }
+}
